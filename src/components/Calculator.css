@@ -38,6 +38,11 @@ color:#fff
     font-size:3.5em;
 }
 
-.items{
-    
+.title{
+ text-align: center;
+ color:#fff;
+
+}
+.Container{
+    height: 90vh;
 }
